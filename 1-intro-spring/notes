@@ -1,3 +1,15 @@
 Video 1 - Getting the most out of your course
 -------------
+
 IntelliJ most popular ide for java.
+
+Setting up vscode for Java Development
+-------------
+Install JDK - Java Development Kit
+sudo apt install default-jdk
+echo export "JAVA_HOME=/usr/lib/jvm/default-java" >> ~/.bash_profile
+gradle init --type java-library
+
+Spring Boot Cookbook
+--------------
+Common things you need not covered in the course.

@@ -1,0 +1,15 @@
+Video 10 - Introduction
+---------------------
+Making a web app with dynamic content from a database.
+
+Video 11 - Spring Initializer
+---------------------
+Spring Initializer - Forms the project in maven and gradle.
+Initializr
+Spring Boot Starter - Maven dependency management brings all dependencies.
+start.spring.io - Creates a starter project for spring with zip, including the spring boot starters.
+    - spring boot starters
+    - spring initializer
+    - creates zip
+
+
